@@ -1,1 +1,1 @@
-# webpack-templates-html
+# Webpack Templates HTML
